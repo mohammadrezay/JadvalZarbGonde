@@ -1,4 +1,4 @@
-# JadvalZarbGonde
+# JadvalZarbGonde.php
 https://quera.org/problemset/3409?tab=description
 <?php
 $n = (int)readline("Enter a number : ");
